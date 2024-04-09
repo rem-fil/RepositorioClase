@@ -1,1 +1,2 @@
 # RepositorioClase
+-Jeremi MUñoz Pacheco
